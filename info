@@ -1,0 +1,223 @@
+{
+  "uuid": "278c66e70a657c0a626850e541d3c1de",
+  "path": "Offline/KV4P transceiver de M0ODZ",
+  "name": "KV4P transceiver de M0ODZ",
+  "content": "",
+  "created_at": "2024-11-08 19:58:08",
+  "updated_at": "2024-11-09 01:16:10",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e9a657f5834d32975f02624c960f59d7",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9927b82faedc4876b51202f6be782ee8": 1,
+        "462a370aabad4d5182cc29c0cc19edba": 1,
+        "a9b2671cf6cf4bb687cce04a00f4217a": 2,
+        "72ebb5b71c89ff427e9047b2f2518da0": 1,
+        "23be0a4ba59d36d93bd7eebae20ea93d": 2,
+        "a79bff93426941508f9a95d0ff3f63b8": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "24pF",
+          2,
+          "C0603",
+          "C1,C4",
+          {
+            "Manufacturer Part": "0603CG240J500NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1654"
+          }
+        ],
+        [
+          "43pF",
+          2,
+          "C0402",
+          "C2,C3",
+          {
+            "Manufacturer Part": "GJM1555C1H430FB01D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C415393"
+          }
+        ],
+        [
+          "SMA",
+          1,
+          "CON-SMA-RA",
+          "J1",
+          {
+            "Manufacturer Part": "RF2-04A-T-00-50-G",
+            "Manufacturer": "Adam Tech",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "2057-RF2-04A-T-00-50-G-ND"
+          }
+        ],
+        [
+          "75nH",
+          2,
+          "L0402",
+          "L1,L3",
+          {
+            "Manufacturer Part": "MLG1005S75NJT000",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880710"
+          }
+        ],
+        [
+          "82nH",
+          1,
+          "L0603",
+          "L2",
+          {
+            "Manufacturer Part": "SDCL1608C82NJTDF",
+            "Manufacturer": "Sunlord(顺络)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C23473"
+          }
+        ],
+        [
+          "DRA818V",
+          1,
+          "DORJI_DRA818V",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1731099162,
+      "createTime": 1731095888,
+      "histories": [],
+      "created_at": "2024-11-08 19:58:08",
+      "updated_at": "2024-11-08 20:52:42"
+    },
+    {
+      "uuid": "0743b0ca1233629795c8b99af79e970b",
+      "puuid": "278c66e70a657c0a626850e541d3c1de",
+      "title": "PCB_KV4P transceiver de M0ODZ",
+      "filename": "PCB_KV4P transceiver de M0ODZ.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "0821ed6ea50c44f4909e4be7610e4198": 2,
+        "0094b89ec82f4590ade6a3468789692b": 1,
+        "8da96988a9164ab09ca115e01caf2944": 2,
+        "1f261cf72cb1479ca32177c31156ede3": 1,
+        "3769ed1d37464a57a2637c15552adae1": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "24pF",
+          2,
+          "C0603",
+          "C1,C4",
+          {
+            "Manufacturer Part": "0603CG240J500NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1654"
+          }
+        ],
+        [
+          "43pF",
+          2,
+          "C0402",
+          "C2,C3",
+          {
+            "Manufacturer Part": "GJM1555C1H430FB01D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C415393"
+          }
+        ],
+        [
+          "SMA",
+          1,
+          "CON-SMA-RA",
+          "J1",
+          {
+            "Manufacturer Part": "RF2-04A-T-00-50-G",
+            "Manufacturer": "Adam Tech",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "2057-RF2-04A-T-00-50-G-ND"
+          }
+        ],
+        [
+          "75nH",
+          2,
+          "L0402",
+          "L1,L3",
+          {
+            "Manufacturer Part": "MLG1005S75NJT000",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880710"
+          }
+        ],
+        [
+          "82nH",
+          1,
+          "L0603",
+          "L2",
+          {
+            "Manufacturer Part": "SDCL1608C82NJTDF",
+            "Manufacturer": "Sunlord(顺络)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C23473"
+          }
+        ],
+        [
+          "DRA818V",
+          1,
+          "DORJI_DRA818V",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "Adam Tech",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "2057-RF2-04A-T-00-50-G-ND"
+          }
+        ]
+      ],
+      "updateTime": 1731114970,
+      "createTime": 1731100397,
+      "histories": [],
+      "created_at": "2024-11-08 21:13:17",
+      "updated_at": "2024-11-09 01:16:10"
+    }
+  ],
+  "sort": [],
+  "title": "KV4P transceiver de M0ODZ",
+  "foldername": "KV4P transceiver de M0ODZ",
+  "schfilename": "KV4P transceiver de M0ODZ.json",
+  "schfilemtime": 1731099162363
+}
